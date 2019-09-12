@@ -1,7 +1,7 @@
 ## Anthony Ronca
-## 9/12/2019
-## 6 hours over 3 days
-##----------------------
+# 9/12/2019
+# 6 hours over 3 days
+# ----------------------
 
 
 # Project 1 - *Tasks*
@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 
 Github only supports 30 seconds. Here is the full video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lPT8xyrFbm0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# YOUTUBE LINK BELOW:
 
 [![Alt text](https://img.youtube.com/vi/lPT8xyrFbm0/0.jpg)](https://www.youtube.com/watch?v=lPT8xyrFbm0)
 
