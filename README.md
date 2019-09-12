@@ -37,6 +37,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/ar6mUPR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Github only supports 30 seconds. Here is the full video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPT8xyrFbm0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Notes
 
 CHALLENGES:
